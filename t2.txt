@@ -1,2 +1,5 @@
 script4.sql
 script.sql
+script5.sql
+script6.sql
+script7.sql
